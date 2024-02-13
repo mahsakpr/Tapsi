@@ -705,14 +705,7 @@ textarea {
   background-color: rgba(23, 26, 60, 0.5) !important;
   color: #fff;
 }
-.banner-phone {
-  display: none;
-  position: absolute;
-  left: 10%;
-  bottom: -50%;
-  height: auto;
-  width: 420px;
-}
+
 
 @media screen and (min-width: 768px) {
   .hero-wrapper {
@@ -740,9 +733,7 @@ textarea {
   .intro-btn__passenger p {
     font-size: 1.5rem;
   }
-  .banner-phone {
-    display: block;
-  }
+
 }
 
 .services__tabs {
